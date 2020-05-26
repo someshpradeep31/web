@@ -1,0 +1,191 @@
+body{
+   margin: 0px;
+   text-align: center;
+   font-family: 'Merriweather', serif;
+}
+
+.top-container{
+    background-color:lightcyan;
+    position: relative;
+    padding:5vh;
+}
+.middle-container{
+       
+    line-height: 1;
+    padding-bottom:5vh ;
+    padding-top: 5vh;
+
+}
+.my{
+    line-height: 2;
+}
+h1{
+    width: 40vw;
+    margin:10vw auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5vw;
+    color: #66bfbf;
+}
+h2{
+    color: #66bfbf;
+    font-size: 2vw;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2vw;
+}
+h4{
+    color: #66bfbf;
+    font-size: 2vw;
+}
+p{
+    font-size: 1.3vw;
+}
+.skillname{
+    font-size: 1.1vw;
+    color: #66bfbf;
+    
+}
+.bcloud{
+    position: absolute;
+    max-width: 100%;
+    height: auto;
+    width: 10vw;
+
+}
+.tcloud{
+   position: absolute;
+   top: 5vh;
+   right:10vw;
+   max-width: 100%;
+   height: auto;
+   width: 8vw;
+}
+.mountain{
+    max-width: 100%;
+    height: auto;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: .5vw;
+    width: 10%;
+}
+.myself{
+    max-width: 100%;
+    width: 20vw;
+    height: auto;
+    border-radius:4vh 2vw 4vh 2vw;
+    padding: top 8vh;
+}
+.skills{
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+    line-height: 1.2;
+}
+.skillrow{
+    width: 50%;
+    height: 40%;
+    margin: 0 auto 0 auto;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+.inter{
+     width:40%;
+     height:auto;
+     float: right;
+     margin-left: 5vw;
+     border-radius:2vh 2vw 2vh 2vw;
+}
+
+.skill-row1{
+    width: 50%;
+    height: 40%;
+    margin: 0 auto 0 auto;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+}
+.computer{
+     width:12vw;
+     height: auto;
+     float: left;
+     margin-right: 5vw;
+     border-radius: 5vh 5vw 5vh 5vw;
+}
+.skill-row{
+    width: 50%;
+    height: 40%;
+    margin: 0 auto 0 auto;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+
+}
+.contact-me{
+    padding-bottom: 4vh;
+    padding-top: 4vh;
+}
+.bottom-container{
+    background-color: lightblue;
+    margin-bottom: auto;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+
+}
+.skills2{
+    width: 40%;
+    margin-left: 30%;
+    padding-bottom: 4vh;
+}
+a{
+    text-decoration: none;
+}
+.footer-link{
+    margin:2vh 2vw 2vh 2vw;
+    line-height: 4;
+    font-size: 1.4vw;
+}
+.but {
+	-moz-box-shadow: 0px 0px 0px 2px #9fb4f2;
+	-webkit-box-shadow: 0px 0px 0px 2px #9fb4f2;
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #7892c2), color-stop(1, #476e9e) );
+	background:-moz-linear-gradient( center top, #7892c2 5%, #476e9e 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#7892c2', endColorstr='#476e9e');
+	background-color:#7892c2;
+	-webkit-border-top-left-radius:10px;
+	-moz-border-radius-topleft:10px;
+	border-top-left-radius:10px;
+	-webkit-border-top-right-radius:10px;
+	-moz-border-radius-topright:10px;
+	border-top-right-radius:10px;
+	-webkit-border-bottom-right-radius:10px;
+	-moz-border-radius-bottomright:10px;
+	border-bottom-right-radius:10px;
+	-webkit-border-bottom-left-radius:10px;
+	-moz-border-radius-bottomleft:10px;
+	border-bottom-left-radius:10px;
+text-indent:0;
+	border:1px solid #4e6096;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Courier New;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #283966;
+}.but:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #476e9e), color-stop(1, #7892c2) );
+	background:-moz-linear-gradient( center top, #476e9e 5%, #7892c2 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#476e9e', endColorstr='#7892c2');
+	background-color:#476e9e;
+}.but:active {
+	position:relative;
+	top:1px;
+}
+
